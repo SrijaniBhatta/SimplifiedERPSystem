@@ -31,10 +31,10 @@ https://github.com/SrijaniBhatta/SimplifiedERPSystem/assets/128303508/69c5dd98-0
 
 # ⦾Project Overview
 The goal of this project is to create a simplified interface for an ERP (Enterprise Resource Planning) system, designed to manage basic business operations efficiently. The system will consist of the following pages:
-      # 1.Dashboard - Provides an overview of the system's features.
-      # 2.Products Management - Allows for the management of product listings.
-      # 3.Orders Management - Facilitates viewing and handling orders.
-      # 4.Orders Calendar View - A calendar interface displaying orders based on their expected delivery dates.
+# 1.Dashboard - Provides an overview of the system's features.
+#  2.Products Management - Allows for the management of product listings.
+# 3.Orders Management - Facilitates viewing and handling orders.
+# 4.Orders Calendar View - A calendar interface displaying orders based on their expected delivery dates.
 
       
 
@@ -66,13 +66,13 @@ The goal of this project is to create a simplified interface for an ERP (Enterpr
 # •Products Management:
      1. Present a list of products with details such as name, category, price, and stock quantity from firebase firestore.
      2. Enable functionalities to add, edit, and delete products.
-#  Products listing page where we can perform edit and deletion operation also.
+# 1. Products listing page where we can perform edit and deletion operation also.
 ![product1](https://github.com/SrijaniBhatta/SimplifiedERPSystem/assets/128303508/fb1a7e9f-5ace-41fe-9cdd-60575ba66fbf)
       
-#  Product adding page      
+# 2. Product adding page      
 ![product2](https://github.com/SrijaniBhatta/SimplifiedERPSystem/assets/128303508/a0484bee-cae3-46e4-beba-e9c3c932eff1)
 
-#  Product deletion operation showing     
+# 3. Product deletion operation showing     
 ![product3](https://github.com/SrijaniBhatta/SimplifiedERPSystem/assets/128303508/07fb3304-1332-4dbf-9f07-a4f92a6d1430)
 
      
@@ -81,13 +81,13 @@ The goal of this project is to create a simplified interface for an ERP (Enterpr
      1. Show a list of orders, including details like order ID, customer name, order date, and status, using mock data.
      2. Allow viewing of order details, updating the order status, and deletion of orders.
 
-#  Order listing page     
+# 1. Order listing page     
 ![order1](https://github.com/SrijaniBhatta/SimplifiedERPSystem/assets/128303508/93289c9b-2b33-4764-9e5f-80ea54f8953f)
 
-# order details of a particular order differentiate by unique id
+# 2. order details of a particular order differentiate by unique id
 ![order2](https://github.com/SrijaniBhatta/SimplifiedERPSystem/assets/128303508/8c7932ea-6f71-45b9-9a20-9d6efd313c67)
 
-# update order status
+# 3. update order status
 ![order3](https://github.com/SrijaniBhatta/SimplifiedERPSystem/assets/128303508/9096448f-d107-40f8-8342-aed3c2f1dc8b)
 
 
@@ -98,13 +98,13 @@ The goal of this project is to create a simplified interface for an ERP (Enterpr
 # •Orders Calendar View:
     1. A calendar view that displays orders on their expected delivery dates.
     2. Ability to click on a date to view all orders due for delivery that day.
-# order calendar view 
+# 1.order calendar view 
 ![orderscalendar1](https://github.com/SrijaniBhatta/SimplifiedERPSystem/assets/128303508/a912536c-a4a9-4fab-839c-00fd3acf7baf)
 
-# order are showing with expected delivery dates
+# 2. order are showing with expected delivery dates
 ![orderscalendar2](https://github.com/SrijaniBhatta/SimplifiedERPSystem/assets/128303508/fb23b661-340b-4e75-b536-257c98a5ff8b)
 
-# All orders of a particular day
+# 3. All orders of a particular day
 ![orderscalendar3](https://github.com/SrijaniBhatta/SimplifiedERPSystem/assets/128303508/7713213d-6f92-46fc-acd4-5270eeeb8094)
 
 
