@@ -34,6 +34,8 @@ const Header = ({ userId, setUserId ,open , setOpen }) => {
     setShow(true);
   };
 
+
+  //login function
   const userLogin = async (e) => {
     e.preventDefault();
     if (user.userName === "" || user.password === "") {
@@ -62,6 +64,9 @@ const Header = ({ userId, setUserId ,open , setOpen }) => {
     }
   }, [userId]); // Add userId as a dependency
 
+
+
+  //logout function
   const handleLogout = () => {
     swal({
       title: "Are you sure?",
