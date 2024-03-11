@@ -67,13 +67,13 @@ The goal of this project is to create a simplified interface for an ERP (Enterpr
      1. Present a list of products with details such as name, category, price, and stock quantity from firebase firestore.
      2. Enable functionalities to add, edit, and delete products.
 #  Products listing page where we can perform edit and deletion operation also.
-      ![product1](https://github.com/SrijaniBhatta/SimplifiedERPSystem/assets/128303508/fb1a7e9f-5ace-41fe-9cdd-60575ba66fbf)
+![product1](https://github.com/SrijaniBhatta/SimplifiedERPSystem/assets/128303508/fb1a7e9f-5ace-41fe-9cdd-60575ba66fbf)
       
 #  Product adding page      
-      ![product2](https://github.com/SrijaniBhatta/SimplifiedERPSystem/assets/128303508/a0484bee-cae3-46e4-beba-e9c3c932eff1)
+![product2](https://github.com/SrijaniBhatta/SimplifiedERPSystem/assets/128303508/a0484bee-cae3-46e4-beba-e9c3c932eff1)
 
 #  Product deletion operation showing     
-      ![product3](https://github.com/SrijaniBhatta/SimplifiedERPSystem/assets/128303508/07fb3304-1332-4dbf-9f07-a4f92a6d1430)
+![product3](https://github.com/SrijaniBhatta/SimplifiedERPSystem/assets/128303508/07fb3304-1332-4dbf-9f07-a4f92a6d1430)
 
      
 
