@@ -12,10 +12,17 @@ import OrderCalendar from './Pages/OrderCalendar/OrderCalendar.jsx'
 
 
 function App() {
-  const [userId, setUserId] = useState(null);
+  const [userId, setUserId] = useState(null);  
+  //passing the userId as props
+
+
   const [products, setProducts] = useState([]);
+
+
    //sidebar open
    const [open, setOpen] = useState(false);
+
+   //orders dummy data
   const [orders, setOrders] = useState([
     {
       id: 1,
@@ -237,6 +244,8 @@ function App() {
     // Add more data here...
   ]);
 
+
+  //get userId from localStorage
   useEffect(() => {
     const storedUserId = localStorage.getItem("userId");
     if (storedUserId) {

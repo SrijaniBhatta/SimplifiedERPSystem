@@ -3,6 +3,8 @@ import Button from "react-bootstrap/Button";
 import Modal from "react-bootstrap/Modal";
 
 const ModalPage = ({show,selectedOrder,handleClose}) => {
+
+  //modal to show order's details
   return (
     <div>
       {selectedOrder && (

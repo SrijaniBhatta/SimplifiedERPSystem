@@ -11,6 +11,8 @@ const Table = ({ products, handleEdit, handleDelete }) => {
     minimumFractionDigits: null,
   });
 
+
+  //list of products
   return (
     <div className="contain-table">
       <table className="striped-table mb-4">

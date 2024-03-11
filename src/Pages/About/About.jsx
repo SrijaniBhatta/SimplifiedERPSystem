@@ -1,6 +1,9 @@
 import React from "react";
 
 const About = () => {
+
+  //about projects
+  
   return (
     <div className="container" style={{ marginTop: "51px" }}>
       <h4>About Page</h4>

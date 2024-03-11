@@ -28,6 +28,8 @@ const Header = ({ userId, setUserId ,open , setOpen }) => {
     setUser({ ...user, [name]: value });
   };
 
+
+  //modal opan & close handling
   const handleShow = async () => {
     setShow(true);
   };

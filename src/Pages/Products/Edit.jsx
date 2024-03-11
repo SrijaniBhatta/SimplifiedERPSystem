@@ -13,7 +13,7 @@ const Edit = ({ products, selectedProduct, setProducts, setIsEditing, getProduct
   const [price, setPrice] = useState(selectedProduct.price);
   const [stockquantity, setStockquantity] = useState(selectedProduct.stockquantity);
 
-
+//update products
   const handleUpdate = async (e) => {
     e.preventDefault();
 

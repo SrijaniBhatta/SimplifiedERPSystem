@@ -64,6 +64,8 @@ const Sidebar = ({ open, setOpen, userId }) => {
     setOpen(false);
   };
 
+
+  //click outside and sidebar closedown
   const handleOutsideClick = (event) => {
     if (open && !event.target.closest('.nav-menu')) {
       closeSidebar();

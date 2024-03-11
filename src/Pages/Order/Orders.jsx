@@ -41,7 +41,6 @@ const Orders = ({ orders , setOrders }) => {
   };
   
 
-
   const handleStartEditingStatus = (orderId, currentStatus) => {
     setEditingStatusId(orderId);
     setNewStatus(currentStatus);
@@ -149,6 +148,7 @@ const Orders = ({ orders , setOrders }) => {
       </table>
       </div>
 
+    
       <ModalPage show={show} selectedOrder={selectedOrder} handleClose={handleClose}/>
 
     
