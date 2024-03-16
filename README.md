@@ -1,5 +1,5 @@
 # Simplified ERP System with React 
-# React + Vite
+# React + Vite :https://simplified-erp-sys-bb67f0.netlify.app/
 
 # Project demonstation video:
 
